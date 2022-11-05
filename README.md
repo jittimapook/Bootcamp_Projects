@@ -1,16 +1,18 @@
-# Bootcamp_Projects
+# My Profile
 
-We learn 10 sprints during 4 month program.
+I have over 6 years experience in banking sector with international and Thai banks. My primary roles are driving product development and implementation to ensure customer satisfaction and project achievement.
 
- - Spreadsheets
- - SQL Database
- - R Programming
+Skills:
+ - Microsoft Office/Google Sheets
+ - Google Analytics/Power BI/Tableau
+ - SQL, SPSS, STATA 
  - Data Transformation
  - Data Visualization
- - Statistics
- - Intro to 'Classical' Machine Learning
- - Intro to Python
- - Essential Python for Data Analyst
- - Dashboard
+ - R Programming 
+ - Python
 
-Badges:https://www.omega-performance.com/course-listing/
+Certificate:
+Omega performance certificate (Global standard for Commercial Banking and Lending)
+Credit analysis training program with two courses:
+1) Financial accounting for lenders (FAL)
+2) Commercial loans to business (CLB)
